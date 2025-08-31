@@ -2,3 +2,7 @@
 [PASS] [2025-08-20T10:18:21.122Z] POST create a user
 [PASS] [2025-08-20T10:18:21.232Z] GET single user not found
 [PASS] [2025-08-20T10:18:21.360Z] GET single user
+[PASS] [2025-08-31T07:07:14.879Z] GET list of users
+[PASS] [2025-08-31T07:07:15.178Z] POST create a user
+[PASS] [2025-08-31T07:07:15.721Z] GET single user not found
+[PASS] [2025-08-31T07:07:15.894Z] GET single user
